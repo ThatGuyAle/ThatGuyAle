@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThatGuyAle
-- 👀 I’m interested in music, programming, and photography.
-- 🌱 I’m currently learning Flutter/Dart.
-- 💞️ I’m looking to collaborate on my startup Artemis
-- 📫 How to reach me: Instagram: @thatguyale_ Discord: ThatGuyAle 
+- 👀 I’m interested in music, programming, business, art, and photography.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on my startup Artemis.
+- 📫 How to reach me: Instagram: @thatguyale_ Discord: Trashbag.xl 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I sing, play guitar, ukelele, and piano.
 
